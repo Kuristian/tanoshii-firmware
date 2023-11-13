@@ -310,7 +310,7 @@ static esp_err_t initialize_system() {
     //     return res;
     // }
 
-    // return res;
+    return res;
 }
 
 void test_time() {
